@@ -6,11 +6,7 @@ published: true
 ---
 
 
-Some information about Jiwon Kim!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Writing In Progress
 
 ### Contact me
 
