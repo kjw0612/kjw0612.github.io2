@@ -2,7 +2,6 @@
 layout: post
 title: Awesome Deep Vision - Curating deep learning resources for computer vision
 ---
-# Awesome Deep Vision
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 
